@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.portalprototype.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "F:\\Schule\\Fachhochschule Schmalkhalden\\8. Semester\\ImmersiveMedia\\Projekt\\Unity\\Prototypes\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Portal Prototype [Testing]"
+        }
+      }
+    }
+  ]
+}
