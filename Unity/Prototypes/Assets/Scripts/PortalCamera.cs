@@ -34,7 +34,7 @@ public class PortalCamera : MonoBehaviour
         if(is_VR == false){
             transform.rotation = Quaternion.LookRotation(newCamDir, Vector3.up);
         }else{
-            transform.rotation = Quaternion.LookRotation(new Vector3(newCamDir.x, 0, newCamDir.z), Vector3.up);
+            transform.rotation = player_cam.rotation;  //Quaternion.LookRotation(new Vector3(newCamDir.x, 0, newCamDir.z), Vector3.up);
         }
 
 

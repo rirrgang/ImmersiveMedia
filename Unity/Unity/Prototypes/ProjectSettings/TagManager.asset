@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Ground
+  - WorldA
+  - WorldB
+  - 
+  - Long_Forward_Enter
+  - Long_Forward_Exit
+  - Long_Backward_Enter
+  - Long_Backward_Exit
+  - Short_Forward_Enter
+  - Short_Forward_Exit
+  - Short_Backward_Enter
+  - Short_Backward_Exit
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
