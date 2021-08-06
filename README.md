@@ -1,7 +1,5 @@
 # ImmersiveMedia
-
-# 3DCC
-My Project Files for the course 3D-Content-Creation.
+Our Project Files for the course ImmersiveMedia.
 
 ## Documentation
 Link: https://docs.google.com/document/d/1UUfT0X-2IT-On0LGN19hpJYrE_F-88l14_ml6OjFZeA/edit?usp=sharing
